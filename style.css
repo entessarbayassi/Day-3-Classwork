@@ -1,0 +1,59 @@
+.test{
+    color: #718355;
+    background-color: #fcfefe;
+    width: 300px;
+    padding: 100px;
+    margin: auto;
+    
+    
+    
+}
+
+.H1{
+    color: var(--primary-color);
+    background: #fcfefe;
+    border: 5px double #718355;
+    text-align: center ;
+    width: 300px;
+    padding: 10px;
+    margin: auto;
+   
+
+    
+    
+
+
+    }
+
+.H2{
+    color: #718355;
+    background: #fcfefe;
+    width: 300px;
+    padding: 100px;
+    margin: auto;
+    border-radius: 20%;
+    text-decoration: none;
+   
+    
+}
+    :root{
+        --primary-color :#718355;
+        --primary-color :#56643f;
+        --secondary-color:#87986a;
+        --thrid-color:#97a97c;
+        --fourth-color:#b5c99a;
+        --fith-color:#cfe1b9;
+       --sixth-color:#e9f5db;
+    }
+
+    #Par{
+        color:#56643f;
+      
+
+    }
+
+    *{
+        background: #f5f9f1;
+        
+    }
+
